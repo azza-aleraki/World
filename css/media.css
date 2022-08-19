@@ -1,0 +1,152 @@
+@media (max-width: 360px) {
+    
+    .d-flex{
+        flex-wrap:wrap;
+    }
+    .bg-img h1{
+        margin: 3% 1%;
+    }
+    .nav-list{
+        width: 100%;
+        font-size: 10px;
+        justify-content: space-evenly;
+    }
+    .main{
+       display: none;
+     }
+    
+    .main-text1{
+        width: 100%;
+        text-align: center;
+     }
+    .fa-1{
+        margin: 4% auto;
+
+  }
+
+    .left-aside{
+        width: 100%;
+      }
+    .left-aside h3{
+        font-size: 13px;
+    }
+    .left-aside ul{
+        font-size: 10px;
+        width: 100%;
+        justify-content: space-evenly;
+        padding: 2% 0;
+    }
+    .travel-btn{
+        left:-22%
+    }
+    .play{
+        left:60%
+    }
+    .left-left{
+        width: 100%;
+    }
+    .img1{
+        width: 100%;
+    }
+    .right-aside{
+        width:100%;
+        border-left: none;
+    }
+    .t{
+        width: 100%;
+    }
+    .l{
+        display: none;
+    }
+    .left-div{
+        width:100%
+    }
+    .width-100{
+        width: 100%;
+        text-align: center;
+    }
+    .width-50{
+        width: 50%;
+        text-align: center;
+      }
+    .med-custom{
+        text-align: center;
+        margin: 4% 0;
+    }
+    .fa-angle-up{
+        right: 3%;
+        bottom: 17%;   
+     }
+    
+  
+}
+@media (max-width: 720px){
+    .d-flex{
+        flex-wrap: wrap;
+    }
+    .bg-img h1{
+        margin: 2% 0;
+    }
+    .nav-list{
+        width: 100%;
+        font-size: 13px;
+        align-items: center;
+    }
+    .main-text i{
+      margin: 2% auto;
+    }
+    .main-text p{
+        text-align: center;
+        font-size: 13px;
+    }
+    .left-aside{
+        width: 100%;
+        text-align: center;
+        justify-content: space-between;
+    }
+    .left-aside ul{
+        width: 100%;
+    }
+    .items-start{
+        align-items: flex-start;
+
+    }
+    .left-left{
+        margin-top: 6px;   
+     }
+     .right-aside{
+        width: 100%;
+        border-left:none ;
+     }
+     .t{
+        width: 100%;
+     }
+     .width-100{
+        width: 100%;
+        text-align: center;
+     }
+     .align{
+        text-align: center;
+        margin: 4% 32px;
+     }
+     .width-50{
+       width: 50%;
+       text-align: center;
+     }
+     footer ul{
+    text-align: center;
+    margin: 4% 0%;
+    }
+    .fa-angle-up{
+        right: 3%;
+        bottom: 17%;   
+     }
+     .travel-btn{
+        left:-22%
+    }
+    .play{
+        left:60%;
+        line-height: 3;
+    }
+}
+
